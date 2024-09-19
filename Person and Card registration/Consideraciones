@@ -1,0 +1,3 @@
+Para que la opcion 2 funcione, debe haberse creado una Persona con la opcion 1,
+sino no se podrá hacer esa asociación de tarjeta a una persona.
+
